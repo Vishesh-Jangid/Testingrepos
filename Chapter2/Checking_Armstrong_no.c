@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include<math.h>
+
 
 int main() {
     int n, original, rem, sum = 0, digits = 0;
