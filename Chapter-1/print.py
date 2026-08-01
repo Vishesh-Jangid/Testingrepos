@@ -4,4 +4,5 @@ def name(a):
       print(a)
 b=input("Enter the Input   ")
 a=b
-name
+name()
+
